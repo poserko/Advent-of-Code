@@ -1,6 +1,6 @@
 ## Advent of Code Solutions
 
-This repository contains my solutions for Advent of Code (AoC) problems.
+This repository contains my solutions for Advent of Code (AoC) problems. Each folder corresponds to a different year and day of the AoC challenge.
 
 ### What Is Advent of Code?
 
